@@ -1,0 +1,22 @@
+.im{
+    background-color: rgb(223, 222, 180);
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    left: 50px;
+}
+.im1{
+    height: 400px;
+    width: 400px;
+}
+body{
+    background-color: aqua;
+}
+.choice{
+    background-color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+image.profile{
+    height: 200;
+    width: 200;
+}
